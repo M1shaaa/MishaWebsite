@@ -51,7 +51,7 @@ a {
     padding: 15px 20px 15px;
     margin-left: 20px;
     margin-right: 20px;
-    color: white;
+    color: #f5f4e9;
     background-color: #8f8b61;
     text-transform: uppercase;
     font-style: italic;
@@ -270,7 +270,7 @@ div > img {
     max-height: 100%;
     max-width: 100%;
     padding: 5px;
-    background-color: white;
+    background-color: #f5f4e9;
     border: 5px solid #8f8b61;
 }
 .timeline-wrapper .timeline-content-item .timeline-content-item-reveal a span {
