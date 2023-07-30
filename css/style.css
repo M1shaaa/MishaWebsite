@@ -1,18 +1,18 @@
 body {
-    background-color: white;
+    background-color: #f5f4e9;
     font-family: 'Times New Roman', sans-serif;
     margin: 0;
     padding: 0;
 }
 h1 {
     font-family: 'Times New Roman', sans-serif;
-    color: white;
+    color: #f5f4e9;
     text-transform: uppercase;
     font-style: italic;
     margin: 0;
 }
 h2 {
-    color: white;
+    color: #f5f4e9;
     text-transform: uppercase;
     font-style: italic;
     padding: 20pt;
@@ -23,7 +23,7 @@ p {
 }
 p.contact {
     font-family: 'Times New Roman', sans-serif;
-    color: white;
+    color: #f5f4e9;
     font-size: 12px;
     text-align: center;
     padding: 0;
