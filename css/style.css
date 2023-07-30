@@ -52,7 +52,7 @@ a {
     margin-left: 20px;
     margin-right: 20px;
     color: white;
-    background-color: #ffcf31;
+    background-color: #c5050c;
     text-transform: uppercase;
     font-style: italic;
     font-weight: bold;
@@ -62,7 +62,7 @@ div > img {
     height: auto;
 }
 .solo-img {
-    background-color: #ffcf31;
+    background-color: #c5050c;
     width: 80%;
     margin: auto;
     padding: 15px;
@@ -239,7 +239,7 @@ div > img {
     display: block;
     width: 1em;
     height: 1em;
-    background: #ffcf31;
+    background: #c5050c;
     margin: 0 auto .5em auto;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -271,7 +271,7 @@ div > img {
     max-width: 100%;
     padding: 5px;
     background-color: white;
-    border: 5px solid #ffcf31;
+    border: 5px solid #c5050c;
 }
 .timeline-wrapper .timeline-content-item .timeline-content-item-reveal a span {
     position: absolute;
